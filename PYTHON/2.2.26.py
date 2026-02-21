@@ -1,0 +1,11 @@
+x=10
+y=3.5
+a=5
+b=2
+print(a/b)
+print(a//b)
+print(a%b)
+course="ML"
+print(x+y)
+print(type(x),type(y),type(course))
+print(x*y)
